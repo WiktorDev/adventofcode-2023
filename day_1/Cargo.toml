@@ -1,5 +1,5 @@
 [package]
-name = "adventofcode-2023"
+name = "day_1"
 version = "0.1.0"
 edition = "2021"
 
